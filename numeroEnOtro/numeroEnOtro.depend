@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613398396 source:d:\luisito el mas bello\curso-control-de-flujo-en-c\numeroenotro\main.c
+	<stdio.h>
+	<stdlib.h>
+

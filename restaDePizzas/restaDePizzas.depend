@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613366309 source:d:\luisito el mas bello\curso-control-de-flujo-en-c\restadepizzas\main.c
+	<stdio.h>
+	<stdlib.h>
+
